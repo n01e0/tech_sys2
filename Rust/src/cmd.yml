@@ -1,0 +1,10 @@
+name: "cat"
+version: 0.1.0
+author: "n01e0 <reoshiseki@gmail.com>"
+about: "file reader"
+    
+args:
+  - path:
+      required: true
+      help: "file path"
+      takes_value: true
